@@ -4,7 +4,7 @@
   <display-name>JSF-JPA</display-name>
   
   <welcome-file-list>
-    <welcome-file>index.xhtml</welcome-file>
+    <welcome-file>pages/principal.xhtml</welcome-file>
   </welcome-file-list>
   
   <servlet>
